@@ -1,0 +1,6 @@
+[package]
+name = "concurent"
+version = "0.1.0"
+authors = ["shireesha <shireesha@quintype.com>"]
+
+[dependencies]
